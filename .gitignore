@@ -4,3 +4,5 @@ librarian/.librarian
 librarian/modules/*
 librarian/Puppetfile.lock
 *.tgz
+.tmp
+.DS_Store
